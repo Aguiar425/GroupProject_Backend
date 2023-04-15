@@ -36,6 +36,6 @@ To run our project, follow these steps:
 
 **Authors:**
 - João Pedro Rodrigues - [@johnDoCodigo](https://github.com/johnDoCodigo)
-- Miguel Alves - [@aguiar425](https://github.com/Aguiar425)
+- Miguel Aguiar - [@aguiar425](https://github.com/Aguiar425)
 - Reinaldo Marques - [@hicalonic](https://github.com/Hicalonic)
 - Rui Rajão - [@ruirajao](https://github.com/ruirajao)
